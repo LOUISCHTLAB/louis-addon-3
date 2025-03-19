@@ -1,4 +1,4 @@
-# Home Assistant Add-on: SleepPad
+# Home Assistant Add-on: IR ADDON
 
 **SleepPad**: is an advanced, non-invasive sleep tracking device designed to help you monitor and improve your sleep quality. By leveraging cutting-edge sensor technology, this device provides comprehensive insights into your sleep patterns, health metrics, and environmental factors, all without requiring wearables.
 
